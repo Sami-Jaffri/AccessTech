@@ -1,5 +1,5 @@
 # AccessTech - Bridging The Digital Divide 
- http://accesstech101.000webhostapp.com/
+ (https://sami-jaffri.github.io/AccessTech/index.html)
 
 # 💻 What Is It? 
 AccessTech is a website created for COSC 101 (Digital Citizenship) at the University of British Columbia. It was constructed in hopes of acting as a hub
